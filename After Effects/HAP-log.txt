@@ -48,3 +48,4 @@ exporter.cpp(470) [24560] INFO: expanded worker pool to 5
 exporter.cpp(470) [24560] INFO: expanded worker pool to 6
 exporter.cpp(470) [24560] INFO: expanded worker pool to 7
 exporter.cpp(334) [24560] INFO: closing export session - final worker pool size 7
+output_module.cpp(36) [main] INFO: AEX output plugin exit
