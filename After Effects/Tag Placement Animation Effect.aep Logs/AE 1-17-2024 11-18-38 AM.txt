@@ -1,0 +1,17 @@
+Adobe After Effects v24.1 Windows 64 render log for project “Tag Placement Animation Effect.aep”
+
+Rendering started on 1/17/2024 at 11:18:38 AM
+
+  1/17/2024 11:18:38 AM: Starting composition “A Token_V1”.
+
+  Output To: C:\Users\logan\Documents\GitHub\ClimateCloset_UI\Graphics\A Token_V1.mov  After Effects warning: Could not open the file 'C:\Users\logan\AppData\Local\Temp\Adobe\After Effects\24.1\Disk Cache - Logan_Laptop.noindex\c0\c0b1e27f-9282-b0e8-9492-8a742e7afa8b.ADBE ICV.F00864E.AAAAAEABuws=.aecache'.  1/17/2024 11:18:44 AM: Finished composition “A Token_V1”.
+
+
+  1/17/2024 11:18:44 AM: Starting composition “B Token_V1”.
+
+  Output To: C:\Users\logan\Documents\GitHub\ClimateCloset_UI\Graphics\B Token_V1.mov    1/17/2024 11:18:49 AM: Finished composition “B Token_V1”.
+
+
+  Total Time Elapsed: 11 Seconds
+Log closed on 1/17/2024 at 11:18:49 AM
+

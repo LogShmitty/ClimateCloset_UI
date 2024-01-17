@@ -1,0 +1,17 @@
+Adobe After Effects v24.1 Windows 64 render log for project “Tag Placement Animation Effect.aep”
+
+Rendering started on 1/17/2024 at 11:19:27 AM
+
+  1/17/2024 11:19:27 AM: Starting composition “A Token_V1”.
+
+  Output To: C:\Users\logan\Documents\GitHub\ClimateCloset_UI\Graphics\A Token_V1.mp4    1/17/2024 11:19:34 AM: Finished composition “A Token_V1”.
+
+
+  1/17/2024 11:19:34 AM: Starting composition “B Token_V1”.
+
+  Output To: C:\Users\logan\Documents\GitHub\ClimateCloset_UI\Graphics\B Token_V1.mp4      Render stopped by user.    1/17/2024 11:19:35 AM: Finished composition “B Token_V1”.
+
+
+  Total Time Elapsed: 8 Seconds
+Log closed on 1/17/2024 at 11:19:35 AM
+
