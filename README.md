@@ -1,6 +1,6 @@
 # This is the Github Repo for the Climate Closet UI
 
-Releases are on the right side of page
+[Link to Releases](https://github.com/LogShmitty/ClimateCloset_UI/releases)
 
 ## Required Software
 
