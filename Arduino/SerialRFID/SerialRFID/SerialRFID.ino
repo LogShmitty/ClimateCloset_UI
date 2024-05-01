@@ -44,8 +44,11 @@ MFRC522::MIFARE_Key key;
 // Init array that will store new NUID 
 byte nuidPICC[4];
 
+// Set Baud Rate Here
+int baudRate = 9600;
+
 void setup() { 
-  Serial.begin(9600);
+  Serial.begin(baudRate);
 
   SPI.begin(); // Init SPI bus
   rfid.PCD_Init(); // Init MFRC522 
