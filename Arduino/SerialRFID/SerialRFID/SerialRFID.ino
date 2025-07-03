@@ -34,8 +34,8 @@
 #include <SPI.h>
 #include <MFRC522.h>
 
-#define SS_PIN 23
-#define RST_PIN 14
+#define SS_PIN 5
+#define RST_PIN 2
  
 MFRC522 rfid(SS_PIN, RST_PIN); // Instance of the class
 
@@ -44,7 +44,8 @@ MFRC522::MIFARE_Key key;
 // Init array that will store new NUID 
 byte nuidPICC[4];
 
-// Set Baud Rate Here
+// Set Baud Rate Here 
+// Change Baud Rate for Each Device
 int baudRate = 9600;
 
 void setup() { 
