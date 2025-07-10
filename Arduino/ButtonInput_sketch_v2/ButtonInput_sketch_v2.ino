@@ -1,5 +1,5 @@
-#define BUTTON_PIN 2 // GIOP21 pin connected to button
-#define ledPin 21
+#define BUTTON_PIN 21 // GIOP21 pin connected to button
+#define ledPin 2
 
 void setup() {
   // initialize serial communication at 9600 bits per second:
@@ -13,14 +13,17 @@ void setup() {
 void loop() {
   // read the state of the switch/button:
   int buttonState = digitalRead(BUTTON_PIN);
+  int stateSend = 0;
 
   if (buttonState == HIGH) {                  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
-       digitalWrite(ledPin, HIGH);             // turn LED on:
+       digitalWrite(ledPin, HIGH);
+       stateSend = 0;             // turn LED on:
    } else {
-       digitalWrite(ledPin, LOW);              // turn LED off:
+       digitalWrite(ledPin, LOW);
+       stateSend = 1;              // turn LED off:
       }
   // print out the button's state
-  Serial.println(buttonState);
+  Serial.println(stateSend);
 }
 
 
