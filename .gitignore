@@ -1,5 +1,10 @@
 *.mp4
 *.mov
 *.MOV
+<<<<<<< Updated upstream
 *.DS_Store
 *.DS_Store
+=======
+.DS_Store
+.DS_Store
+>>>>>>> Stashed changes
